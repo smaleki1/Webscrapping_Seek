@@ -6,7 +6,7 @@ To limit the scope to job posting only the following jobs are considered.
 
 data scientist, data analyst, research scientist and business intelligence
 
-This code scrapped the data from the above jobs on Seek.com for two salary ranges (all 80K) and above 100K.
+This code scrapped the data from the above jobs on Seek.com for two salary ranges (all 80K and above 100K).
 
 Note:
 
