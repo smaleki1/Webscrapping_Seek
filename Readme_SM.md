@@ -10,11 +10,11 @@ This code scrapped the data from the above jobs on Seek.com for two salary range
 
 Note:
 
-1- The code called "scrape_seek_sm_1.ipynb" was used to scrap the data
+1- The code called "1_scrape_seek_sm.ipynb" was used to scrap the data
 
-2- The code called "preprocessing_sm_2.ipynb" was used to clean and preprocess the data
+2- The code called "2_preprocessing_sm.ipynb" was used to clean and preprocess the data
 
-3- The code called "modelling_sm_3.ipynb" was used to predict the factors impact the salary amount.
+3- The code called "3_modelling_sm.ipynb" was used to predict the factors impact the salary amount.
 
 To see the code, you can simply use nbviewer online (https://nbviewer.jupyter.org/) which does not require installation. Simply open nbviewer and paste the notebook link. This is an independent tool that may work when github doesnot.
 
