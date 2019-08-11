@@ -15,5 +15,3 @@ Note:
 2- The code called "2_preprocessing_sm.ipynb" was used to clean and preprocess the data
 
 3- The code called "3_modelling_sm.ipynb" was used to predict the factors impact the salary amount.
-
-To see the code, you can simply use nbviewer online (https://nbviewer.jupyter.org/) which does not require installation. Simply open nbviewer and paste the notebook link. This is an independent tool that may work when github doesnot.
